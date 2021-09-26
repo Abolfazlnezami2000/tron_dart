@@ -10,6 +10,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # https://pub.dev/packages/bip39
+  bip39: ^1.0.6
+  # https://pub.dev/packages/hex
+  hex: ^0.2.0
+  # https://pub.dev/packages/encrypt
+  encrypt: ^5.0.1
+  # https://pub.dev/packages/crypto
+  crypto: ^3.0.1
+  # https://pub.dev/packages/secp256k1
+  secp256k1: ^0.3.0
+  # https://pub.dev/packages/sha3
+  sha3: ^0.2.0
+  # https://pub.dev/packages/fast_base58
+  fast_base58: ^0.2.0
+  # https://pub.dev/packages/characters
+  characters: ^1.1.0
 
 dev_dependencies:
   flutter_test:
